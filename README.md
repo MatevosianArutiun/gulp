@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <a href="https://gulpjs.com">
     <img height="257" width="114" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png">
   </a>
@@ -9,12 +9,12 @@
 
 ```bash
 # Create new folder and install the gulp project there
-npx degit a1exalexander/gulp <my-new-project>
+npx degit MatevosianArutiun/gulp <my-new-project>
 cd <my-new-project>
 npm install
 
 # or install the gulp project here
-npx degit a1exalexander/gulp .
+npx degit MatevosianArutiun/gulp .
 npm install
 ```
 
